@@ -8,7 +8,7 @@
 💬 Ask me about **Web Development**
 
 <h3 align="center">About Me:</h3>
-<u>
+<hr style="border: 0; border-top: 1px solid #eaecef; margin-top: 20px; margin-bottom: 20px;">
 <p align="center">I am a quick learner who believes in hard work and efficiency. I always enjoy learning new things and gaining experience with new technologies. Seeking a challenging position where I can utilize my quick learning abilities, strong work ethic, and passion for efficiency to contribute to a dynamic team. I aim to continuously learn and adapt to new technologies.</p>
 
 <h3 align="center">Connect with me:</h3>
