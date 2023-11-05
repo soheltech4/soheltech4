@@ -26,17 +26,16 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&show_icons=true&theme=highcontrast" alt="Top Langs"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=highcontrast" alt="Top Languages" /> 
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sohelranagtc&show_icons=true&theme=highcontrast" alt="GitHub streak stats" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&show_icons=true&theme=highcontrast" alt="Top Langs"/>
-</p>
-
 
 <h2 align="left"> 📲 Connect with me:</h2>
 <p align="center">
