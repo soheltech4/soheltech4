@@ -1,13 +1,17 @@
 <h1 align="left">Hi 👋, I'm Sohel Rana</h1>
 <h3 align="left">A passionate Frontend developer</h3>
 
-<p align="left" underline> <img src="https://komarev.com/ghpvc/?username=sohelranagtc&label=Profile%20views&color=0e75b6&style=flat" alt="sohelranagtc" /> </p>
-
 🌱 I’m currently learning **JavaScript**
 
 👨‍💻 All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
 
 💬 Ask me about **Web Development**
+
+<h3 align="left">About Me:</h3>
+<p>I am a quick learner. I believe in hard work and efficiency. I always like to learn new things and have
+experience with new stuff. Seeking a challenging position where I can utilize my quick learning abilities,
+strong work ethic, and passion for efficiency to contribute to a dynamic team. I aim to continuously learn
+and adapt to new technologies.<p/>
 
 
 <h3 align="left">Connect with me:</h3>
