@@ -31,10 +31,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="40" height="40"/>
 </p>
 
 <p align="center">
