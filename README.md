@@ -35,6 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelranagtc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<h1 align="center">
   let's code your career
-</p>
+</h1>
