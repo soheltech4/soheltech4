@@ -45,5 +45,5 @@
 </p>
 
 <h1 align="center">
-  🎯 let's code your career
+  🎯 Let's Code Your Career
 </h1>
