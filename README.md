@@ -25,8 +25,9 @@
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"/>
 </p>
 
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent)
-
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelranagtc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
