@@ -1,24 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Sohel Rana</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
 
-🌱 I’m currently learning **JavaScript**
+✅ I’m currently learning **JavaScript**
 
-👨‍💻 All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
+✅ All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
 
-💬 Ask me about **Web Development**
+✅ Ask me about **Web Development**
 
 <h2 align="left"> 🚀 About Me:</h2>
 
-<p align="center">I am a quick learner who believes in hard work and efficiency. I always enjoy learning new things and gaining experience with new technologies. Seeking a challenging position where I can utilize my quick learning abilities, strong work ethic, and passion for efficiency to contribute to a dynamic team. I aim to continuously learn and adapt to new technologies.</p>
+<p align="justify">I am a quick learner who believes in hard work and efficiency. I always enjoy learning new things and gaining experience with new technologies. Seeking a challenging position where I can utilize my quick learning abilities, strong work ethic, and passion for efficiency to contribute to a dynamic team. I aim to continuously learn and adapt to new technologies.</p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center"> 📲 Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/sohelrana96" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 <a href="https://fb.com/sohelph7" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
 <a href="https://discord.gg/sohel696" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center"> 🛠️ Languages and Tools:</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
