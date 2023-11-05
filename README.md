@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">
