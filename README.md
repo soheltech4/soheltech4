@@ -26,7 +26,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Languages" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Languages" width="40" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Langs" width="40"/>
 <img src="https://streak-stats.demolab.com/?user=sohelranagtc&show_icons=true&theme=transparent" alt="GitHub streak stats" />
 </p>
 
