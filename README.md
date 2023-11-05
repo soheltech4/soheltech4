@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohelranagtc&label=Profile%20views&color=0e75b6&style=flat" alt="sohelranagtc" /> </p>
+<p align="left" underline> <img src="https://komarev.com/ghpvc/?username=sohelranagtc&label=Profile%20views&color=0e75b6&style=flat" alt="sohelranagtc" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
 
 - 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **sohelranagtc@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X2lpoE-BflEDV9uQh_y5RRqcPjb0ZZFv/view](https://drive.google.com/file/d/1X2lpoE-BflEDV9uQh_y5RRqcPjb0ZZFv/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
