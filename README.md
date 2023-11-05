@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Frontend Developer</h3>
 
 ✅ I’m currently learning **JavaScript**
+
 ✅ Ask me about **Web Development**
 
 <h2 align="left"> 🚀 About Me:</h2>
