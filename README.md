@@ -3,11 +3,12 @@
 
 <p align="left" underline> <img src="https://komarev.com/ghpvc/?username=sohelranagtc&label=Profile%20views&color=0e75b6&style=flat" alt="sohelranagtc" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Next.JS**
+🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
+👨‍💻 All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
 
-- 💬 Ask me about **Web Development**
+💬 Ask me about **Web Development**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +16,7 @@
 <a align="left" href="https://fb.com/sohelph7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohelph7" height="30" width="40" /></a>
 <a align="left" href="https://discord.gg/sohel696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sohel696" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" padding="5"> 
