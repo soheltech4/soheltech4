@@ -33,6 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Languages" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2 align="left"> 📲 Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/sohelrana96" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
