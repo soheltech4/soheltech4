@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&show_icons=true&theme=transparent" alt="Top Langs" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sohelranagtc)  
