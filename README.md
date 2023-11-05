@@ -26,8 +26,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=highcontrast" alt="Top Languages" /> 
 <img src="https://streak-stats.demolab.com/?user=sohelranagtc&show_icons=true&theme=highcontrast" alt="GitHub streak stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&theme=highcontrast" alt="Top Languages" /> 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&show_icons=true&theme=highcontrast" alt="Top Langs"/>
 </p>
 
