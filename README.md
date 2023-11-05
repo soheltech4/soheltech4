@@ -36,5 +36,5 @@
 </p>
 
 <h1 align="center">
-  let's code your career
+  🎯 let's code your career
 </h1>
