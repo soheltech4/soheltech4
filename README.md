@@ -2,9 +2,6 @@
 <h3 align="center">Passionate Frontend Developer</h3>
 
 ✅ I’m currently learning **JavaScript**
-
-✅ All of my projects are available at [https://sohel-tech.netlify.app](https://sohel-tech.netlify.app)
-
 ✅ Ask me about **Web Development**
 
 <h2 align="left"> 🚀 About Me:</h2>
@@ -39,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohelranagtc&show_icons=true&locale=en" alt="GitHub Stats" />
+  let's code your career
 </p>
