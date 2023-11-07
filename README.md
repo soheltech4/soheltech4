@@ -10,7 +10,7 @@
 
 <h2 align="left"> 🛠️ Skills and Experience:</h2>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" border="2" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" border: 2px solid black; width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
