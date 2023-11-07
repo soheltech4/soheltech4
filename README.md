@@ -17,14 +17,13 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sohel696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohelph7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelrana96) 
 
-<p align="center">
+<h1 align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 🎯
-</p>
+</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
