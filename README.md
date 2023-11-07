@@ -1,5 +1,5 @@
 <h1 align="left">Hi👋, I'm Sohel Rana</h1>
-<p align="left">Passionate Frontend Developer</p>
+<h3 align="left">Passionate Frontend Developer</h3>
 
 ✅ I’m currently learning **JavaScript**
 
