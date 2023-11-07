@@ -18,21 +18,11 @@
 
 <h2 align="left"> 📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=sohelranagtc&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sohelranagtc&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelranagtc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<h2 align="left"> ✍️ Dev Quote:</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
-<h2 align="left"> 🔝 Top Contributed Repo:</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=sohelranagtc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=sohelranagtc&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <h1 align="center">
   🎯
