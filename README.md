@@ -1,8 +1,6 @@
 <h1 align="left">Hi👋, I'm Sohel Rana</h1>
 <h3 align="left">Passionate Frontend Developer</h3>
 
-[![Project Video](https://img.youtube.com/vi/yourvideoid/0.jpg)](https://www.youtube.com/watch?v=yourvideoid)
-
 ✅ I’m currently learning **JavaScript**
 
 ✅ Ask me about **Web Development**
