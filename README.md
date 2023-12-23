@@ -1,5 +1,5 @@
-<h1 align="left">Hi👋, I'm Sohel Rana</h1>
-<h3 align="left">Passionate Frontend Developer</h3>
+<h1 align="center">Hi👋, I'm Sohel Rana</h1>
+<h3 align="center">Passionate Frontend Developer</h3>
 
 ✅ I’m currently learning **JavaScript**
 
@@ -18,7 +18,7 @@
 
 <h2 align="left"> 🌐 Connect with me:</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sohel696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohelph7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelrana96) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sohel696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soheltech4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheltech) 
 
 <h1 align="center">
 
