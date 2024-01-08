@@ -29,23 +29,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
-<RoutingRules>
-	<RoutingRule>
-		<Condition>
-			<HttpErrorCodeReturnedEquals>403</HttpErrorCodeReturnedEquals >
-		</Condition>
-		<Redirect>
-			<HostName>yousite.com</HostName>
-			<ReplaceKeyPrefixWith>wp-admin/admin-ajax.php?action=generate_image&amp;provider=aws&amp;image=</ReplaceKeyPrefixWith>
-			<HttpRedirectCode>302</HttpRedirectCode>
-		</Redirect>
-	</RoutingRule>
-</RoutingRules>
-
-
-
-
 🎯
 </h1>
 
