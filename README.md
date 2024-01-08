@@ -22,7 +22,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=soheltech4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=soheltech4&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=soheltech4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api?username=soheltech4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=soheltech4&theme=dark&hide_border=false)
 
 <h1 align="center">
 
